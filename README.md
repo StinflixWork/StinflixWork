@@ -1,8 +1,13 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+<h2> Hi, I'm Vlad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!-- <img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=520 /> -->
+<h2 align='center' id='stinflix-about'>🤏 About Me</h2>
+<img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=350 />
+<p>I'm from Ukraine and I'm 22 years old. I have a university degree and no work experience. <br /> I've been learning TypeScript and React for the last few months and I'm now ready to apply my skills. <br /> I also have some pet-projects in React & TS and HTML & CSS.</p>
 
-<p>Welcome to my page! </br> I'm Vlad, Frontend developer from <b>Ukraine</b>. I'm 22 y.o.</p>
+My English level:
+
+- A0-A1: Done! ✅
+- A2: in the process.. 🎲
 
 <br />
 
