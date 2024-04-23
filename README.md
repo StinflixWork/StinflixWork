@@ -1,13 +1,23 @@
-<h2> Hi, I'm Vlad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hi, I'm Vlad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <h2 align='center' id='stinflix-about'>🤏 About Me</h2>
-<img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=350 />
-<p>I'm from Ukraine and I'm 22 years old. I have a university degree and no work experience. <br /> I've been learning TypeScript and React for the last few months and I'm now ready to apply my skills. <br /> I also have some pet-projects in React & TS and HTML & CSS.</p>
+<img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=380 />
+<p>I'm from Ukraine and I'm 22 years old. I have a university degree and no work experience. <br /> I've been learning TypeScript and React for the last few months and I'm now ready to apply my skills. I also have some pet-projects in React & TS and HTML & CSS.</p>
 
 My English level:
 
 - A0-A1: Done! ✅
 - A2: in the process.. 🎲
+
+<br />
+
+✍️ Contact me: 
+
+<a href='https://t.me/stinflix'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href='https://www.linkedin.com/in/stinflix/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StinflixWork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -129,11 +139,14 @@ My English level:
   </tr> 
 </table>
 
+<h2>💼 Latest projects</h2>
 
-## ☄️ Contacts
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StinflixWork&repo=online-store)](https://github.com/StinflixWork/online-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StinflixWork&repo=dashboard-test-case)](https://github.com/StinflixWork/dashboard-test-case)
 
 
-- :airplane: &nbsp;**[Telegram](https://t.me/stinflix)**
-- :comet: &nbsp;**[Github](https://github.com/StinflixWork)**
+<h2>⭐ CodeWars stats</h2>
+
+[![codewars](https://www.codewars.com/users/Stinflix_/badges/large)](https://www.codewars.com/users/Stinflix_)
 
 <br>
