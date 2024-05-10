@@ -1,6 +1,6 @@
 ### Hi, I'm Vlad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<h2 align='center' id='stinflix-about'>🤏 About Me</h2>
+<h2 id='stinflix-about'>🤏 About Me</h2>
 <img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=380 />
 <p>I'm from Ukraine and I'm 22 years old. I have a university degree and no work experience. <br /> I've been learning TypeScript and React for the last few months and I'm now ready to apply my skills. I also have some pet-projects in React & TS and HTML & CSS.</p>
 
