@@ -2,12 +2,13 @@
 
 <h2 id='stinflix-about'>🤏 About Me</h2>
 <img align='right' alt="GIF" src="https://github.com/StinflixWork/StinflixWork/blob/main/assets/code.gif?raw=true" width=380 />
-<p>I'm from Ukraine and I'm 22 years old. I have a university degree and no work experience. <br /> I've been learning TypeScript and React for the last few months and I'm now ready to apply my skills. I also have some pet-projects in React & TS and HTML & CSS.</p>
+<p>I am from Ukraine and I am 23 years old. I have a university degree and no work experience. <br /> I am currently developing some projects such as admin panel and mini applications (quiz, table, pomodoro and others) on TypeScript and React.</p>
+<p>If you have an opening for me, I would be happy to collaborate with you. You can message me on Telegram <a href='https://t.me/stinflix'>Vlad</a></p>
 
 My English level:
 
-- A0-A1: Done! ✅
-- A2: in the process.. 🎲
+- A2: Done! ✅
+- B1: in the process.. 🎲
 
 <br />
 
@@ -138,12 +139,6 @@ My English level:
       <br>Ant Design
   </tr> 
 </table>
-
-<h2>💼 Latest projects</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StinflixWork&repo=online-store)](https://github.com/StinflixWork/online-store)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StinflixWork&repo=dashboard-test-case)](https://github.com/StinflixWork/dashboard-test-case)
-
 
 <h2>⭐ CodeWars stats</h2>
 
