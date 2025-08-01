@@ -2,7 +2,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 Hi, welcome!
 </h1>
-<img src="https://avatars.githubusercontent.com/u/142720001" width="150" style="border-radius: 50%" />
 
 ### 🧑‍💻 About me
 
