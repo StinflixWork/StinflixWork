@@ -4,7 +4,6 @@ Hi, welcome!
 </h1>
 
 ### 🧑‍💻 About me
-
 - 💼 Frontend React Developer
 - 🧠 My name is Vlad, I’m **24 years old** with **8 months** of commercial experience
 - 🚀 I’ve worked on real-world projects: admin panels, e-commerce websites, custom CRMs, and landing pages
